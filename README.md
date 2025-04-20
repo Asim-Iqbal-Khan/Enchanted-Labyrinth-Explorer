@@ -1,63 +1,48 @@
-# Enchanted Labyrinth Explorer
+# 🌌 Enchanted Labyrinth Explorer
 
-## Course: CL2001 - Data Structures (Spring 2024)
-
-
-
-## 📖 Project Description
-
-Welcome to the mystical realm of Arcadia! **Enchanted Labyrinth Explorer** is a C++-based adventure game that challenges players to navigate through a procedurally generated maze filled with magical treasures, deadly traps, and mythical creatures. The game combines advanced data structures, algorithms, and game design to deliver an immersive and strategic experience.
+Welcome to the mystical realm of **Arcadia**, where the ancient **Enchanted Labyrinth** awaits! Venture into a procedurally generated maze filled with traps, magical creatures, and hidden treasures. Use your wits, weapons, and magical items to survive and claim the riches that lie within.
 
 ---
 
-## 🚀 Key Features
+## 🕹️ Gameplay Overview
 
-### 1. AVL Tree for Inventory Management
-- Efficient insertion, deletion, and search operations
-- Stores and organizes treasures, weapons, potions, and artifacts
-- Auto-balancing for fast access during gameplay
+- 🧙‍♂️ **You are an adventurer** exploring a dangerous, dynamic labyrinth.
+- 🗺️ **Procedurally generated mazes** ensure a unique experience each time.
+- 🧟 **Enemies roam the labyrinth** — defeat them using collected weapons and strategy.
+- 💎 **Treasure collection system** managed by a custom AVL Tree data structure.
+- 🧠 **Pathfinding assistance** via Dijkstra’s algorithm to guide your journey.
+- ⚔️ **Combat system** allows real-time battles with enemy creatures.
+- 🏆 **Score and reward system** encourages deeper exploration for rarer loot.
 
-### 2. Procedural Maze Generation
-- Randomly generates unique mazes on every playthrough
-- Includes dead ends, obstacles, and hidden paths
-- Stores treasure locations and categories using the AVL tree
+---
 
-### 3. Shortest Pathfinding Algorithm
-- Implements **Dijkstra’s** algorithm
-- Helps the player find the optimal path from maze entrance to exit
-- Avoids traps and enemies using cost functions
+## 🎯 Features
 
-### 4. Enemy Encounters and Combat System
-- Introduces magical enemies guarding key treasures
-- Strategic turn-based combat using collected items
-- Inventory-driven combat enhancements powered by AVL tree
-
-### 5. Reward System
-- Discover common, rare, and legendary treasures
-- Special rewards provide unique powers and bonuses
-- Inventory tracks collected rewards with attributes and types
-
-### 6. Immersive User Interface (UI)
-- Built using **SFML** library
-- Real-time feedback: inventory status, map updates, enemy alerts
-- Visual representation of maze, player, and enemies
-
+- ✅ **AVL Tree Inventory**: Efficient insert, delete, and search for collected items.
+- ✅ **Random Maze Generation**: DFS-based algorithm ensures unique layouts.
+- ✅ **Shortest Path Algorithm**: Smart navigation using Dijkstra’s algorithm.
+- ✅ **Enemy AI & Bullet Mechanics**: Real-time danger from magical creatures.
+- ✅ **Combat Mechanics**: Fight with swords, shields, and magic potions.
+- ✅ **Treasure Tracking**: Rewards with item effects (shield, key, buffs).
+- ✅ **Immersive UI**: Score display, inventory showcase, and game-over screens.
+- ✅ **Pause Feature**: Pause anytime with the `P` key.
 
 
 ---
 
-## ✨ Bonus Features
-- 🎵 **Sound Effects**: Adds atmosphere and alerts
-- 🔄 **Random Maze Generation**: Unique experience on each run
+## 🛠️ How to Build
 
----
+### 🔗 Dependencies
 
-## 🧠 Technologies & Libraries Used
+- **C++17** (or higher)
+- **SFML 2.6.1**
 
-- **C++** (Standard Template Library for data handling)
-- **SFML (2.6.1)** – Simple and Fast Multimedia Library for graphics, sound, and UI
-- **Object-Oriented Design** for clean and maintainable code
+### 🧩 SFML Setup
+1. Download SFML: [SFML 2.6.1](https://www.sfml-dev.org/download/sfml/2.6.1/)
+2. Follow the setup tutorial: [SFML + Visual Studio Setup](https://youtu.be/pgvlJ-Zr9Ys?si=gH4AebmA5nQEfJdy)
 
----
+### 🧪 Compilation Instructions
 
-
+Using **g++** (adjust SFML path as needed):
+```bash
+g++ -std=c++17 main.cpp -o LabyrinthExplorer -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
