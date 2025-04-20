@@ -1,0 +1,96 @@
+﻿  game.cpp
+D:\Data Structures\DS Project\DS Project\Inventory.h(208,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\Inventory.h(208,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(87,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(193,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Data Structures\DS Project\DS Project\game.h(193,64): warning C4244:         with
+D:\Data Structures\DS Project\DS Project\game.h(193,64): warning C4244:         [
+D:\Data Structures\DS Project\DS Project\game.h(193,64): warning C4244:             T=float
+D:\Data Structures\DS Project\DS Project\game.h(193,64): warning C4244:         ]
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(193,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Data Structures\DS Project\DS Project\game.h(193,54): warning C4244:         with
+D:\Data Structures\DS Project\DS Project\game.h(193,54): warning C4244:         [
+D:\Data Structures\DS Project\DS Project\game.h(193,54): warning C4244:             T=float
+D:\Data Structures\DS Project\DS Project\game.h(193,54): warning C4244:         ]
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(194,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(194,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(211,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Data Structures\DS Project\DS Project\game.h(211,73): warning C4244:         with
+D:\Data Structures\DS Project\DS Project\game.h(211,73): warning C4244:         [
+D:\Data Structures\DS Project\DS Project\game.h(211,73): warning C4244:             T=float
+D:\Data Structures\DS Project\DS Project\game.h(211,73): warning C4244:         ]
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(211,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Data Structures\DS Project\DS Project\game.h(211,59): warning C4244:         with
+D:\Data Structures\DS Project\DS Project\game.h(211,59): warning C4244:         [
+D:\Data Structures\DS Project\DS Project\game.h(211,59): warning C4244:             T=float
+D:\Data Structures\DS Project\DS Project\game.h(211,59): warning C4244:         ]
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(215,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(215,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(236,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(281,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(281,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(300,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(300,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(333,20): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+D:\Data Structures\DS Project\DS Project\game.h(333,20): warning C4244:         with
+D:\Data Structures\DS Project\DS Project\game.h(333,20): warning C4244:         [
+D:\Data Structures\DS Project\DS Project\game.h(333,20): warning C4244:             T=float
+D:\Data Structures\DS Project\DS Project\game.h(333,20): warning C4244:         ]
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(341,20): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+D:\Data Structures\DS Project\DS Project\game.h(341,20): warning C4244:         with
+D:\Data Structures\DS Project\DS Project\game.h(341,20): warning C4244:         [
+D:\Data Structures\DS Project\DS Project\game.h(341,20): warning C4244:             T=float
+D:\Data Structures\DS Project\DS Project\game.h(341,20): warning C4244:         ]
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(462,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(488,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(488,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(499,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(499,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'game.cpp')
+  
+D:\Data Structures\DS Project\DS Project\game.h(367): warning C4715: 'Game::check_player_position': not all control paths return a value
+  DS Project.vcxproj -> D:\Data Structures\DS Project\x64\Debug\DS Project.exe
