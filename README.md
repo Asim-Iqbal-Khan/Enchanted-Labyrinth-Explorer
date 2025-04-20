@@ -23,7 +23,7 @@ Welcome to the mystical realm of Arcadia! **Enchanted Labyrinth Explorer** is a 
 - Stores treasure locations and categories using the AVL tree
 
 ### 3. Shortest Pathfinding Algorithm
-- Implements **Dijkstra’s** or **A\*** algorithm
+- Implements **Dijkstra’s** algorithm
 - Helps the player find the optimal path from maze entrance to exit
 - Avoids traps and enemies using cost functions
 
@@ -42,10 +42,7 @@ Welcome to the mystical realm of Arcadia! **Enchanted Labyrinth Explorer** is a 
 - Real-time feedback: inventory status, map updates, enemy alerts
 - Visual representation of maze, player, and enemies
 
-### 7. Testing & Optimization
-- Thoroughly tested for bugs and edge cases
-- Optimized AVL tree and maze algorithms for smooth performance
-- Clean code structure with modular files and documentation
+
 
 ---
 
